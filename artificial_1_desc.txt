@@ -1,0 +1,21 @@
+Artificial Data
+
+Description
+Data was created by hand. It is proper to found good results
+
+Shape
+730 x 3
+
+Variables
+
+date
+Month/Day/Year format date data
+
+value (Target variable)
+value which will be predicted
+
+temperature
+temperature value of that day
+
+Test size
+Last 60 rows
