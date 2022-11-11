@@ -1,2 +1,2 @@
 # ML-internship
-An artificial dataset is trained and tested with several Machine Learning algorithms.
+Several machine learning models are trained and tested on an artificial energy dataset containing date,temperature and energy value columns.
